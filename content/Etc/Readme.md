@@ -19,7 +19,7 @@ Untuk memberi warna pada kartu, **tambahkan tag khusus** di akhir baris pertama 
 
 Gunakan tag seperti `#card-blue`, `#card-green`, dll.
 
-```
+```markdown
 ---
 cssClasses: cheatsheet
 ---
